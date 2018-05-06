@@ -26,7 +26,7 @@ To create a banner, you need:
   | Font                                                                                                    | Download URL                                |
   |---------------------------------------------------------------------------------------------------------|---------------------------------------------|
   | [Skyline Bold Condensed](https://store.typenetwork.com/foundry/fontbureau/fonts/skyline/bold-condensed) | N/A                                         |
-  | [Linux Libertine](http://www.linuxlibertine.org) (OpenType version)                                     | http://mirrors.ctan.org/fonts/libertine.zip |
+  | [Linux Libertine](http://libertine-fonts.org) (OpenType version)                                        | http://mirrors.ctan.org/fonts/libertine.zip |
 
 ## Creating an InDesign File
 

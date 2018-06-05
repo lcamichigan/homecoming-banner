@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/akpxc4885tnkpqnp?svg=true)](https://ci.appveyor.com/project/lcamichigan/homecoming-banner)
 
 This is a collection of resources for creating a Homecoming banner for
-[Sigma Zeta of ΛΧΑ](http://lcamichigan.com).
+[Sigma Zeta of ΛΧΑ](https://lcamichigan.com).
 
 ## Contents
 

@@ -16,7 +16,7 @@ To create a banner, you need:
 
 * These fonts:
 
-  | Font                                                                                                    | Download URL                                |
-  |---------------------------------------------------------------------------------------------------------|---------------------------------------------|
-  | [Skyline Bold Condensed](https://store.typenetwork.com/foundry/fontbureau/fonts/skyline/bold-condensed) | N/A                                         |
-  | [Linux Libertine](http://libertine-fonts.org) (OpenType version)                                        | http://mirrors.ctan.org/fonts/libertine.zip |
+  | Font                                                                                                    | Download URL                                                   |
+  |---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+  | [Skyline Bold Condensed](https://store.typenetwork.com/foundry/fontbureau/fonts/skyline/bold-condensed) | N/A                                                            |
+  | [Libertinus](https://github.com/libertinus-fonts/libertinus)                                            | https://github.com/libertinus-fonts/libertinus/releases/latest |
